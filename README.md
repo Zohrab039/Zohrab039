@@ -9,9 +9,11 @@
 </div>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohrab039&label=Profile%20views&color=0e75b6&style=flat" alt="zohrab039" /> </p>
-
+  
 - 🔭 I’m currently working on **FrontEnd Development**
-
+  
+- 📚 I’m currently studying at **Baku State University**
+  
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about 💬 Talk to me about **HTML, CSS, SASS, JavaScript, React**
