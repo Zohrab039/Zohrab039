@@ -54,8 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohrab039&theme=great-gatsby" />
 </div>
  <hr>
+  </div>
+<div align="center">
+    <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohrab039&layout=compact&theme=great-gatsby&hide_border=true" />
+<div>
 <div align="center">
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohrab039&theme=great-gatsby)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zohrab039&theme=great-gatsby)](https://github.com/ashutosh00710/github-readme-activity-graph)
