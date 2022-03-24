@@ -47,15 +47,15 @@
 
 <h1 align="left" > GitHub Stats : <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> </h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohrab039&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zohrab039&show_icons=true&theme=great-gatsby" />
 </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohrab039&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohrab039&theme=great-gatsby" />
 </div>
  <hr>
 <div align="center">
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohrab039&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zohrab039&theme=great-gatsby)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
