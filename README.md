@@ -23,6 +23,7 @@
 - ⚡ Fun fact: **I love coding 💻 and playing video games 🎮**
   
 - 📖 Do you want to read the article I wrote about JS? [The most frequently asked questions and answers in JS](https://medium.com/@zohrabsemedzade3/javascript-%C9%99n-%C3%A7ox-soru%C5%9Fulan-suallar-v%C9%99-cavablar%C4%B1-8a21d34c1270)
+
 <br>
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h1>
 <p align="left">
