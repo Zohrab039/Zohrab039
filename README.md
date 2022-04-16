@@ -38,7 +38,7 @@
 <a href="https://www.hackerrank.com/zohrabsemedzade3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zohrabsemedzade3" height="30" width="40" /></a>
 </p>
 
-<br/>
+<br>
  
 <h1 align="left"> Languages and Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px ></h1>
 <p align="left"> 
