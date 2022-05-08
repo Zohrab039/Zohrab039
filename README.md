@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **zohrabsemedzade3@gmail.com**
   
-- ⚡ Fun fact: **I love coding 💻 and playing video games 🎮**
-  
 - 📖 Do you want to read the article I wrote about JS? [The most frequently asked questions and answers in JS](https://medium.com/@zohrabsemedzade3/javascript-%C9%99n-%C3%A7ox-soru%C5%9Fulan-suallar-v%C9%99-cavablar%C4%B1-8a21d34c1270)
 
 <br>
