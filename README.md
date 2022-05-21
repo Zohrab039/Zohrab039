@@ -4,8 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=..I'm+Zohrab+Semedzade..)]()
 </div>
 <h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
-  <div align="center">
-<img width="49%" height = "300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="cover" align="right" />
+  <div align="left">
+<img width = "100%" height = "300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="cover" align="center" />
 </div>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohrab039&label=Profile%20views&color=0e75b6&style=flat" alt="zohrab039" /> </p>
