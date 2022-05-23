@@ -10,6 +10,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohrab039&label=Profile%20views&color=0e75b6&style=flat" alt="zohrab039" /> </p>
 <div align="left">
+  
 - 🔭 I’m currently working on **FrontEnd Development**
   
 - 📚 I’m currently studying at **Baku State University**
