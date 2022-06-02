@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 display="inline-block" > Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 0px ></h1>
+  <h1 display="inline-block" > Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30x" height = "40x"  ></h1>
  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=..I'm+Zohrab+Semedzade..)]()
 </div>
-<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30px"> </h1>
+<h1 align="left" > About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width="30x" height = 40x"> </h1>
   <div align="left">
 <img width = "100px" height = "300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="cover" align="center" />
 </div>
