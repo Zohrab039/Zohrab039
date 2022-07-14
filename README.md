@@ -15,9 +15,9 @@
   
 - 📚 I’m currently studying at **Baku State University**
   
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about 💬 Talk to me about **HTML, CSS, SASS, JavaScript, React**
+- 💬 Ask me about 💬 Talk to me about **JavaScript, TypeScript, React**
 
 - 📫 How to reach me **zohrabsemedzade3@gmail.com**
   
