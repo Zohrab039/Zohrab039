@@ -15,7 +15,7 @@
   
 - 📚 I’m currently studying at **Baku State University**
   
-- 🌱 I’m currently learning **FrontEnd Development**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about 💬 Talk to me about **Coding**
 
